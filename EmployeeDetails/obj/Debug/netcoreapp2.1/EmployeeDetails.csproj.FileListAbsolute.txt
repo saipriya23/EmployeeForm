@@ -1,0 +1,14 @@
+C:\Users\saipriyak\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.1\EmployeeDetails.deps.json
+C:\Users\saipriyak\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.1\EmployeeDetails.runtimeconfig.json
+C:\Users\saipriyak\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.1\EmployeeDetails.runtimeconfig.dev.json
+C:\Users\saipriyak\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.1\EmployeeDetails.dll
+C:\Users\saipriyak\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.csprojAssemblyReference.cache
+C:\Users\saipriyak\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\saipriyak\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.RazorAssemblyInfo.cache
+C:\Users\saipriyak\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.RazorAssemblyInfo.cs
+C:\Users\saipriyak\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.AssemblyInfoInputs.cache
+C:\Users\saipriyak\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.AssemblyInfo.cs
+C:\Users\saipriyak\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.RazorTargetAssemblyInfo.cache
+C:\Users\saipriyak\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.1\EmployeeDetails.pdb
+C:\Users\saipriyak\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.dll
+C:\Users\saipriyak\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.pdb
